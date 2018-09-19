@@ -9,6 +9,6 @@ It includes only one page that has login UI components such as Button, EditText 
 # Test Scripts
 There three different scripts which are config.js, fail_login_test.js and success_login_test.js.
 Config file has only one configuration object which represents configuration settings about application and device. Please read the documentation. (https://appium.io/docs/en/about-appium/getting-started/?lang=en)
-success_login_test.js represents our positive test with valid login cridentials, of course, these cridentials are simple to be more clear to understand UI test automation easly.
-fail_login_test.js includes our negative test with invalid login cridentials.
+success_login_test.js represents our positive test with valid login credentials, of course, these cridentials are simple to be more clear to understand UI test automation easly.
+fail_login_test.js includes our negative test with invalid login credentials.
 
