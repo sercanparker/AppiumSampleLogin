@@ -4,7 +4,7 @@ exports.config = {
     platformName: "Android",
     platformVersion: "5.0.2",
     deviceName: "LENOVO Lenovo K920",
-    app: "/Users/delta/SampleLogin/app/build/outputs/apk/debug/app-debug.apk",
+    app: "/PATH/SampleLogin/app/build/outputs/apk/debug/app-debug.apk",
     automationName: "UiAutomator2"
   }
 };
