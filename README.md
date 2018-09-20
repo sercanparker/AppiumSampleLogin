@@ -12,3 +12,4 @@ Config file has only one configuration object which represents configuration set
 success_login_test.js represents our positive test with valid login credentials, of course, these cridentials are simple to be more clear to understand UI test automation easly.
 fail_login_test.js includes our negative test with invalid login credentials.
 
+![Alt text](https://github.com/sercanparker/AppiumSampleLogin/blob/master/AppiumTestDemo/Test_Execution.png "Test Execution")
