@@ -14,7 +14,7 @@ fail_login_test.js includes our negative test with invalid login credentials.
 
 # Test Execution
 ![Alt text](https://github.com/sercanparker/AppiumSampleLogin/blob/master/AppiumTestDemo/Test_Execution.png "Test Execution")
-# Test Outputs on Server
+# Test Output on Server
 ![Alt text](https://github.com/sercanparker/AppiumSampleLogin/blob/master/AppiumTestDemo/Test_Output.png "Test Output")
 # Application Under Test on Real Device
 ![](real_device_screen.gif)
