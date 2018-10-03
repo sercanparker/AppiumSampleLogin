@@ -18,5 +18,5 @@ Java version : https://github.com/sercanparker/AppiumSampleLoginJava
 ![Alt text](https://github.com/sercanparker/AppiumSampleLogin/blob/master/AppiumTestDemo/Test_Execution.png "Test Execution")
 # Test Output on Server
 ![Alt text](https://github.com/sercanparker/AppiumSampleLogin/blob/master/AppiumTestDemo/Test_Output.png "Test Output")
-# Application Under Test on Real Device
+# Test execution on Real Device
 ![](real_device_screen.gif)
